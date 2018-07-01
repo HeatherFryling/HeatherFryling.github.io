@@ -1,0 +1,67 @@
+body{
+    background-color: lightgreen;
+}
+
+h1, h2, h3, li, a, p, figcaption{
+    color: black;
+    font-family: helvetica, arial;
+
+}
+
+header img{
+     height: 150px;
+     top: 0;
+     right: 0;
+     position: absolute;
+}
+main figure{
+    width: 50%;
+}
+main figure img{
+    height: 200px;
+}
+
+#bee3{
+    height: 150px;
+    bottom: 150px;
+     right: 50px;
+     position: absolute;
+}
+
+#bee4{
+    height: 150px;
+    bottom: 0px;
+    left: 400px;
+    position: absolute;
+}
+
+#bee5{
+    height: 150px;
+    bottom: 250px;
+    right: 500px;
+    position: absolute;
+}
+
+#bee6{
+    height: 150px;
+    left: 450px;
+    top:1220px;
+    position: absolute;
+}
+
+#bee7{
+    height: 150px;
+    right: 300px;
+    top:1125px;
+    position: absolute;
+
+}
+
+
+
+footer img{
+    height: 150px;
+    
+    left: 0;
+    position: absolute;
+}
